@@ -1,1 +1,1 @@
-# covid-19-phd-project
+# covid-19-PhD-project
