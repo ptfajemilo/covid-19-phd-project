@@ -1,1 +1,2 @@
 # covid-19-PhD-project
+A detailed data analysis on covid-19 data for a PhD research project. The data analysis is all about the preventive measure taken to curb the impact of covid-19 virus on a community in Nigeria. Descriptive analysis was performed using Statistical Package for Social Sciences (SPSS). Frequency, mean, median, mode, standard deviation were calaculated and bar chart was plotted to give a visual expression of the data
